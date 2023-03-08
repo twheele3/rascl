@@ -1,7 +1,7 @@
 # Random Slice Contrastive Learning (RaSCL)
 
 ## Licensing
-Copied and adapted from SimCLRv2 (<https://github.com/google-research/simclr>)
+Copied and adapted from SimCLRv2 (TF2 implementation) (<https://github.com/google-research/simclr>)
 
 ## Pretraining
 
